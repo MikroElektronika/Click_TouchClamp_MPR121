@@ -1,8 +1,6 @@
 ![MikroE](http://www.mikroe.com/img/designs/beta/logo_small.png)
 
-#TouchClamp click
-
-![CLICKNAME_click](http://cdn.mikroe.com/knowlegebase/uploads/2016/05/20155153/touchclamp-click-02.png)
+![CLICKNAME_click](http://cdn.mikroe.com/knowlegebase/uploads/2016/05/21114232/touch-clamp.png)
 
 ---
 [Product Page](http://www.mikroe.com/click/touchclamp/)
