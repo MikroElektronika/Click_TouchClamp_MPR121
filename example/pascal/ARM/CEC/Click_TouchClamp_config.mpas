@@ -1,0 +1,8 @@
+unit Click_TouchClamp_config;
+
+uses Click_TouchClamp_types;
+
+const
+    _TOUCHCLAMP_I2C_CFG : array[1] of uint32_t = (_I2C_100KHZ); 
+    
+end.
